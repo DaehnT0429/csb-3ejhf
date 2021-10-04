@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "https://daehnt0429.github.io/csb-3ejhf/static/js/main.745a07e2.chunk.js",
+    "main.js.map": "https://daehnt0429.github.io/csb-3ejhf/static/js/main.745a07e2.chunk.js.map",
+    "runtime-main.js": "https://daehnt0429.github.io/csb-3ejhf/static/js/runtime-main.39726f0b.js",
+    "runtime-main.js.map": "https://daehnt0429.github.io/csb-3ejhf/static/js/runtime-main.39726f0b.js.map",
+    "static/js/2.9950e82d.chunk.js": "https://daehnt0429.github.io/csb-3ejhf/static/js/2.9950e82d.chunk.js",
+    "static/js/2.9950e82d.chunk.js.map": "https://daehnt0429.github.io/csb-3ejhf/static/js/2.9950e82d.chunk.js.map",
+    "index.html": "https://daehnt0429.github.io/csb-3ejhf/index.html",
+    "static/js/2.9950e82d.chunk.js.LICENSE.txt": "https://daehnt0429.github.io/csb-3ejhf/static/js/2.9950e82d.chunk.js.LICENSE.txt",
+    "static/media/gitlab-logo-gray-stacked-rgb.png": "https://daehnt0429.github.io/csb-3ejhf/static/media/gitlab-logo-gray-stacked-rgb.61fbbae8.png",
+    "static/media/markdown.md": "https://daehnt0429.github.io/csb-3ejhf/static/media/markdown.3a20ac5a.md",
+    "static/media/scrum-a5c44d8364.png": "https://daehnt0429.github.io/csb-3ejhf/static/media/scrum-a5c44d8364.aa65be4a.png",
+    "static/media/square_xsml_msoe-lgo.png": "https://daehnt0429.github.io/csb-3ejhf/static/media/square_xsml_msoe-lgo.bfea624f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39726f0b.js",
+    "static/js/2.9950e82d.chunk.js",
+    "static/js/main.745a07e2.chunk.js"
+  ]
+}
